@@ -31,6 +31,8 @@ Combat automatique est un jeu web où le but est de faire combatre des personnag
 
 ### BIOTA
 [![image du jeu de BIOTA](images/biota.png)](https://www.youtube.com/watch?v=TYIZgZ5-SGg&t=2s)
+#### Étapes
+
 ![Biota début 1](images/biota_partie_01.png)
 ![Biota début 2](images/biota_partie_02.jpg)
 ![Biota début 3](images/biota_partie_03.jpg)
