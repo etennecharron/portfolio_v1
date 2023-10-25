@@ -6,5 +6,8 @@
 ## Cueillette de pommes
 [![image de cueillete de pomme](images/cueillette_pommes.png)](https://etennecharron.github.io/jeu_cueillette_pommes/)
 
+## Combat automatique
+[![image de cueillete de pomme](images/cueillette_pommes.png)](https://etennecharron.github.io/jeu_cueillette_pommes/)
+
 
 
