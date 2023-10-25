@@ -37,7 +37,7 @@ Combat automatique est un jeu web où le but est de faire combatre des personnag
 ![Biota début 2](images/biota_partie_02.jpg)
 ![Biota début 3](images/biota_partie_03.jpg)
 #### Description
-BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conception sonor. L'histoire d'une créature a forme humanoïde triste et seul. Sa tristesse fait naître la vie et redonne de la couleur à son mond. J'ai réaliser le montage vidéo, les sons, la modélisation du personnage et son animation.
+BITOA est un projet réaliser dans le cadre d'un cours d'animation 3D et de conception sonor. L'histoire d'une créature a forme humanoïde triste et seul. Sa tristesse fait naître la vie et redonne de la couleur à son monde. J'ai réaliser le montage vidéo, les sons, la modélisation du personnage et son animation.
 #### Logiciels utilisé
 - Maya
 - Reaper
