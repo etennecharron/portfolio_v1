@@ -32,7 +32,7 @@ Cueillette de pommes est un jeu web où le but est de récolter le plus de pomme
 - Pixelart
 
 ### Combat automatique
-[![image du jeu Combat automatique](images/bataille_automatique.png)](https://etennecharron.github.io/combat_automatique/)
+[![image du jeu Combat automatique](images/combat_automatique.png)](https://etennecharron.github.io/combat_automatique/)
 [lien vers github](https://github.com/etennecharron/combat_automatique)
 #### Déscription
 Combat automatique est un jeu web où le but est de faire combatre des personnages aléatoir l'un comme l'autre. J'ai tout réaliser dans le projet.
