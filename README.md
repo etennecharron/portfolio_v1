@@ -7,7 +7,7 @@
 - 661 rue Bellevue Deux-Montagnes
 
 ## Objectif
-J'aime la programation et le design web, je suis alaise avec HTML, Javascript, Css et le Scss. Je suis aussi a l'aise avec d'autre logiciel de création comme Maya VCV Rack, Figma et Davinci Resolve. Dans le future j'ai comme rêve de crée un jeu vidéo.  
+J'aime la programation et le design web, je suis alaise avec HTML, Javascript, Css et le Scss. Je suis aussi a l'aise avec d'autre logiciel de création comme Maya VCV Rack, Figma et Davinci Resolve. Dans le future j'ai comme rêve de crée des jeu vidéo.  
 
 ## Projets
 
